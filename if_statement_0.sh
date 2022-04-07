@@ -10,5 +10,4 @@ then
     echo "The number 50 is equal to 100"
     else
     echo "The number 50 is not equal to 100"
-fi
-
+    
